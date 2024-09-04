@@ -1,0 +1,14 @@
+.pleaseClick,
+.dontClick{
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.pleaseClick{
+    background-color: black;
+    color:white;
+}
+
+.dontClick{
+    background-color: yellow;
+}
